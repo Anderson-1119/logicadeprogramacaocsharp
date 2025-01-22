@@ -32,7 +32,9 @@ namespace logica1
                 Console.WriteLine($"salario {salario}");
                 Console.WriteLine($"chuva {chuva}");
                 Console.WriteLine($"simbolo {simbolo}");
-                Console.WriteLine();
+                Console.WriteLine($"altura {altura}");
+                Console.WriteLine($"verdade{verdade}");
+
 
 
                 Console.ReadLine();
