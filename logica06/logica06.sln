@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica06", "logica06.csproj", "{5683A215-8C43-4061-AA49-9CDECA5490DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5683A215-8C43-4061-AA49-9CDECA5490DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5683A215-8C43-4061-AA49-9CDECA5490DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5683A215-8C43-4061-AA49-9CDECA5490DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5683A215-8C43-4061-AA49-9CDECA5490DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E0560C-CCB0-4A9E-8DE9-ABBD0CA0ACC7}
+	EndGlobalSection
+EndGlobal

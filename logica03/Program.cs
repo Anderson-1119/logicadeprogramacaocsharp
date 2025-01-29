@@ -40,6 +40,8 @@ namespace logica03
             Console.WriteLine($"x && y: {and}");   // E lógico
             Console.WriteLine($"x || y: {or}");    // Ou lógico
             Console.WriteLine($"!x: {not}");       // Não lógico
+
+            
             
 
             Console.ReadLine();
